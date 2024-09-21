@@ -3,4 +3,4 @@
 *RuslanRuslan*
 ~~Bomboclat~~
 NEWWORDS
-№Конец файла
+# Конец файла
