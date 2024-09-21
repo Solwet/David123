@@ -4,3 +4,4 @@
 ~~Bomboclat~~
 NEWWORDS
 # Конец файла
+ fgh h
